@@ -7,5 +7,7 @@ Learning Git
 ## Commands
 git clone the link<br>
 git status<br>
-git add .
-git commit -m "Adding and index.html"
+git add .<br>
+git commit -m "Adding and index.html"<br>
+git show-ref<br>
+git push origin HEAD:main<br>
