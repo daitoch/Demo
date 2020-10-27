@@ -5,7 +5,7 @@ Some Description
 Learning Git
 
 ## Commands
-git clone the link\n
-git status\n
-git add .\n
-git commit -m "Adding and index.html"\n
+git clone the link<br>
+git status<br>
+git add .
+git commit -m "Adding and index.html"
